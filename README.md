@@ -1,4 +1,4 @@
-### Hi there こんにちは 👋
+## Hi there こんにちは 👋
 </br>
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/SuMMeRNeVeRLoSe/SuMMeRNeVeRLoSe/blob/main/gif/rimuru-demon.gif">
@@ -6,7 +6,7 @@
 </br>
 </br>
 
-# About ME 💬 :
+## About ME 💬 :
 🌱 I’m currently learning Software Engineering Course.
 
 </br>
