@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there こんにちは 👋
 
 🌱 I’m currently learning Software Engineering Course.
 
