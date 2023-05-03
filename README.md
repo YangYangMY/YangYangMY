@@ -7,7 +7,7 @@
 </br>
 
 ## About ME 💬 :
-🌱 I’m currently learning Software Engineering Course.
+🌱 I’m currently learning Image Processing.
 
 </br>
 </br>
