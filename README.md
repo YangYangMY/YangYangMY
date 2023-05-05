@@ -1,7 +1,7 @@
 ## Hi there こんにちは 👋
 </br>
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/SuMMeRNeVeRLoSe/SuMMeRNeVeRLoSe/blob/main/gif/rimuru-demon.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/YangYangMY/YangYangMY/blob/main/gif/rimuru-demon.gif">
 </div>
 </br>
 </br>
@@ -14,7 +14,7 @@
 </br>
 </br>
 <p align="center" > 
-<img  src="https://github-readme-stats.vercel.app/api?username=SuMMeRNeVeRLoSe&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=YangYangMY&&show_icons=true&theme=radical"/>
 </p>
   <!--
 **SuMMeRNeVeRLoSe/SuMMeRNeVeRLoSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
