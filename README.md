@@ -12,13 +12,8 @@
 🌱 I’m currently learning Image Processing.
 
 </br>
-</br>
-<p align="center" > 
-<img  src="https://github-readme-stats.vercel.app/api?username=YangYangMY&&show_icons=true&theme=radical"/>
 My GitHub stats<br> 
- [![Github stats](https://github-readme-stats.vercel.app/api?username=boonsuen&show_icons=true&hide_title=true&hide_border=true)](https://boonsuen.com)<br> 
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boonsuen&layout=compact&langs_count=6&hide_border=true)
-</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=YangYangMY&&show_icons=true&theme=radical"/>
   <!--
 **SuMMeRNeVeRLoSe/SuMMeRNeVeRLoSe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
