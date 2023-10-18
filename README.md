@@ -9,7 +9,7 @@
 
 
 ## About ME 💬 :
-🌱 I’m working on the Final Year Project, which consists of YOLO, and SORT to perform a Smart Parking System with a Double Park Tracking System.
+🌱 Software Engineering Student
 
 </br>
 My GitHub stats<br> 
