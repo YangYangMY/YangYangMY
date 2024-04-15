@@ -9,7 +9,7 @@
 
 
 ## About ME 💬 :
-🌱 Software Engineering Student
+🌱 Software Engineer
 
 </br>
 My GitHub stats<br> 
